@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\bin\Debug\[An] Conversion Program.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\bin\Debug\[An] Conversion Program.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\bin\Debug\[An] Conversion Program.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\obj\Debug\_An__Conversion_Program.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\obj\Debug\_An__Conversion_Program.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\obj\Debug\[An] Conversion Program.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\obj\Debug\[An] Conversion Program.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\obj\Debug\[An] Conversion Program.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\[An] Conversion Program\obj\Debug\[An] Conversion Program.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\obj\Debug\[An] Conversion Program.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\obj\Debug\[An] Conversion Program.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\obj\Debug\[An] Conversion Program.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\bin\Debug\[An] Conversion Program.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\bin\Debug\[An] Conversion Program.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\bin\Debug\[An] Conversion Program.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\obj\Debug\_An__Conversion_Program.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\obj\Debug\_An__Conversion_Program.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] Conversion Program\[An] Conversion Program\obj\Debug\[An] Conversion Program.vbproj.GenerateResource.Cache
