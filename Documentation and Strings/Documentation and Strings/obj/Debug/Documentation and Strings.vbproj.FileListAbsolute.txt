@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\bin\Debug\Documentation and Strings.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\bin\Debug\Documentation and Strings.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\bin\Debug\Documentation and Strings.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\obj\Debug\Documentation and Strings.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\obj\Debug\Documentation and Strings.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\obj\Debug\Documentation and Strings.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Documentation and Strings\Documentation and Strings\obj\Debug\Documentation and Strings.pdb
