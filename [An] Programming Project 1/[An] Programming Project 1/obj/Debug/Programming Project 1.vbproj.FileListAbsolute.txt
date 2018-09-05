@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\bin\Debug\Programming Project 1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\bin\Debug\Programming Project 1.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\bin\Debug\Programming Project 1.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\obj\Debug\Programming_Project_1.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\obj\Debug\Programming_Project_1.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\obj\Debug\Programming Project 1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\obj\Debug\Programming Project 1.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\obj\Debug\Programming Project 1.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Programming Project 1\obj\Debug\Programming Project 1.pdb

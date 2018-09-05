@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\obj\Debug\March_23.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\obj\Debug\March_23.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\obj\Debug\March 23 Restaurant Bill.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\bin\Debug\March 23 Restaurant Bill.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\bin\Debug\March 23 Restaurant Bill.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\bin\Debug\March 23 Restaurant Bill.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\obj\Debug\March 23 Restaurant Bill.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\obj\Debug\March 23 Restaurant Bill.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\March 23 Restaurant Bill\March 23 Restaurant Bill\obj\Debug\March 23 Restaurant Bill.pdb
