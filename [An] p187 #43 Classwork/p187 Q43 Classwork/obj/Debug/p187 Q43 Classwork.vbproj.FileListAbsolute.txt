@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\bin\Debug\p187 Q43 Classwork.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\bin\Debug\p187 Q43 Classwork.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\bin\Debug\p187 Q43 Classwork.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\obj\Debug\p187_Q43_Classwork.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\obj\Debug\p187_Q43_Classwork.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\obj\Debug\p187 Q43 Classwork.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\obj\Debug\p187 Q43 Classwork.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\obj\Debug\p187 Q43 Classwork.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\p187 Q43 Classwork\p187 Q43 Classwork\obj\Debug\p187 Q43 Classwork.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p187 #43 Classwork\p187 Q43 Classwork\obj\Debug\p187 Q43 Classwork.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p187 #43 Classwork\p187 Q43 Classwork\obj\Debug\p187 Q43 Classwork.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p187 #43 Classwork\p187 Q43 Classwork\obj\Debug\p187 Q43 Classwork.pdb

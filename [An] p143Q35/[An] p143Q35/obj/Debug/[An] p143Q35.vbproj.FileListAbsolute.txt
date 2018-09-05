@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\bin\Debug\[An] p143Q35.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\bin\Debug\[An] p143Q35.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\bin\Debug\[An] p143Q35.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\obj\Debug\_An__p143Q35.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\obj\Debug\_An__p143Q35.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\obj\Debug\[An] p143Q35.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\obj\Debug\[An] p143Q35.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\obj\Debug\[An] p143Q35.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An] p143Q35\[An] p143Q35\obj\Debug\[An] p143Q35.pdb
