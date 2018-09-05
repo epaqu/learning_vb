@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\bin\Debug\[An]Month.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\bin\Debug\[An]Month.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\bin\Debug\[An]Month.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\obj\Debug\_An_Month.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\obj\Debug\_An_Month.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\obj\Debug\[An]Month.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\obj\Debug\[An]Month.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\obj\Debug\[An]Month.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]Month\[An]Month\obj\Debug\[An]Month.pdb

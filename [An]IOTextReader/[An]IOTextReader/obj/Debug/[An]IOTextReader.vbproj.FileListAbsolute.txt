@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\bin\Debug\[An]IOTextReader.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\bin\Debug\[An]IOTextReader.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\bin\Debug\[An]IOTextReader.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\obj\Debug\IOTextReader.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\obj\Debug\IOTextReader.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\obj\Debug\[An]IOTextReader.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\obj\Debug\[An]IOTextReader.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\obj\Debug\[An]IOTextReader.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]IOTextReader\[An]IOTextReader\obj\Debug\[An]IOTextReader.pdb

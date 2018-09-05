@@ -1,0 +1,4 @@
+Hello
+Goodbye
+Have a nice day
+I love VB!
