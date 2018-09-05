@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\bin\Debug\[An]MidTerm.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\bin\Debug\[An]MidTerm.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\bin\Debug\[An]MidTerm.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\obj\Debug\MidTerm.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\obj\Debug\MidTerm.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\obj\Debug\[An]MidTerm.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\obj\Debug\[An]MidTerm.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\obj\Debug\[An]MidTerm.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\[An]MidTerm\[An]MidTerm\obj\Debug\[An]MidTerm.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Copy of [An]MidTerm\[An]MidTerm\obj\Debug\[An]MidTerm.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Copy of [An]MidTerm\[An]MidTerm\obj\Debug\[An]MidTerm.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Copy of [An]MidTerm\[An]MidTerm\obj\Debug\[An]MidTerm.pdb
