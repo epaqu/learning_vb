@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\bin\Debug\Assignment.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\obj\Debug\Assignment.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\obj\Debug\Assignment.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\obj\Debug\Assignment.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\obj\Debug\Assignment.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
