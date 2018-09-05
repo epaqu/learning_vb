@@ -1,0 +1,10 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\bin\Debug\[An]Pg279.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\bin\Debug\[An]Pg279.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\bin\Debug\[An]Pg279.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\obj\Debug\_An_Pg279.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\obj\Debug\_An_Pg279.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\obj\Debug\[An]Pg279.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\obj\Debug\[An]Pg279.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\obj\Debug\[An]Pg279.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\[An]Pg279\obj\Debug\[An]Pg279.pdb

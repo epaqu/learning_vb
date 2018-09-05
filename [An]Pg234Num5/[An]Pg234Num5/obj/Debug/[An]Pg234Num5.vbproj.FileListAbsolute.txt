@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\bin\Debug\[An]Pg234Num5.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\bin\Debug\[An]Pg234Num5.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\bin\Debug\[An]Pg234Num5.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\obj\Debug\_An_Pg234Num5.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\obj\Debug\_An_Pg234Num5.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\obj\Debug\[An]Pg234Num5.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\obj\Debug\[An]Pg234Num5.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\obj\Debug\[An]Pg234Num5.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\[An]Pg234Num5\[An]Pg234Num5\obj\Debug\[An]Pg234Num5.pdb
