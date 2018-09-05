@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\bin\Debug\December 7, 2009.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\bin\Debug\December 7, 2009.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\bin\Debug\December 7, 2009.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\obj\Debug\December 7, 2009.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\obj\Debug\December 7, 2009.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\obj\Debug\December 7, 2009.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\December 7, 2009\December 7, 2009\obj\Debug\December 7, 2009.pdb
